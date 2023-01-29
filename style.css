@@ -1,0 +1,38 @@
+body{
+    background: #f5dbda;
+}
+
+.header_div{
+    font-family: 'Bungee Spice', cursive;
+    background: white;
+    color: #ce2700;
+}
+
+.header_div p{
+    font-family: 'Bungee', cursive;
+    color: gray;
+    font-size: xx-large;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Bungee', cursive;
+    color: cyan;
+    font-size: xx-large;
+    letter-spacing: 2px;
+    font-weight: bold;   
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:aqua;
+    bottom: 0;
+    width: 100%;
+    font-size: 12px;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    font-weight: bold;
+}
